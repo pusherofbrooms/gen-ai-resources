@@ -1,7 +1,7 @@
 # Generative AI!
 
 ## Learning resources
-- https://www.youtube.com/@AemonAlgiz/videos All of his videos are worthwhile
+- https://www.youtube.com/@AemonAlgiz/videos Technically deep explanations of llm topics.
 - https://www.youtube.com/@code4AI/videos Technical deep dives into various topics
 - https://www.youtube.com/watch?v=kCc8FmEb1nY build gpt from scratch.
 
