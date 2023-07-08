@@ -12,6 +12,7 @@
 - Microsoft Guidance llm framework https://github.com/microsoft/guidance
 - C++ LLM tools: https://github.com/ggerganov/llama.cpp https://github.com/ggerganov/ggml
 - C++ speech to text: https://github.com/ggerganov/whisper.cpp
+- exllama, efficient inference of quantized models https://github.com/turboderp/exllama
 - Oobabooga LLM UI https://github.com/oobabooga/text-generation-webui
 - GPT4All LLM UI https://github.com/nomic-ai/gpt4all
 
@@ -44,3 +45,4 @@
 - Textbooks are all you need https://arxiv.org/pdf/2306.11644.pdf
 - TinyStories https://arxiv.org/pdf/2305.07759.pdf
 - Specialization on health related data https://arxiv.org/pdf/2305.07804.pdf
+- Direct Preference Optimization https://arxiv.org/pdf/2305.18290
