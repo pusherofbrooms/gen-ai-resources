@@ -20,7 +20,7 @@ ChatGPT can answer that question. One might have good luck asking ChatGPT the fo
 - C++ speech to text: https://github.com/ggerganov/whisper.cpp
 - exllama, efficient inference of quantized models https://github.com/turboderp/exllama
 - Oobabooga LLM UI https://github.com/oobabooga/text-generation-webui
-- GPT4All LLM UI https://github.com/nomic-ai/gpt4all
+- GPT4All LLM UI https://github.com/nomic-ai/gpt4all This is the easiest way to run LLM's locally with a nice UI.
 
 ## Interesting AI Research
 
