@@ -1,5 +1,11 @@
 # Generative AI!
 
+## What is Generative AI?
+ChatGPT can answer that question. One might have good luck asking ChatGPT the following questions to understand the basics:
+- What is generative AI?
+- What are Large Language Models?
+- Summarize the "Attention is all you need" paper.
+
 ## Learning resources
 - https://www.youtube.com/@AemonAlgiz/videos Technically deep explanations of llm topics.
 - https://www.youtube.com/@code4AI/videos Technical deep dives into various topics
