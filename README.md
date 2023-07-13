@@ -35,6 +35,7 @@ ChatGPT can answer that question. One might have good luck asking ChatGPT the fo
 - Chain of Thought https://arxiv.org/pdf/2201.11903.pdf
 - Chain of Thought with Self-Consistency https://arxiv.org/pdf/2203.11171.pdf
 - Tree of Thought https://arxiv.org/pdf/2305.10601.pdf
+- Mixture of Experts meets instruction tuning https://arxiv.org/pdf/2305.14705.pdf
 
 ### Improving context length
 - ALiBI https://arxiv.org/pdf/2108.12409.pdf
