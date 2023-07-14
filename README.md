@@ -62,3 +62,4 @@ ChatGPT can answer that question. One might have good luck asking ChatGPT the fo
 - TinyStories https://arxiv.org/pdf/2305.07759.pdf
 - Specialization on health related data https://arxiv.org/pdf/2305.07804.pdf
 - Direct Preference Optimization https://arxiv.org/pdf/2305.18290
+- Teaching Arithmetic to Small Transformers https://arxiv.org/pdf/2307.03381.pdf
