@@ -26,6 +26,9 @@ ChatGPT can answer that question. One might have good luck asking ChatGPT the fo
 
 ### ML Ops
 - MLFlow https://mlflow.org/
+- git-theta https://github.com/r-three/git-theta
+- Data Version Control https://dvc.org/
+- HuggingFace https://huggingface.co/
 
 ## Interesting AI Research
 
