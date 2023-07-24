@@ -36,6 +36,7 @@ ChatGPT can answer that question. One might have good luck asking ChatGPT the fo
 ### Seminal papers
 - Attention is all you need https://arxiv.org/pdf/1706.03762.pdf
 - Retentive Network: A Successor to Transformer https://arxiv.org/pdf/2307.08621.pdf (remains to be seen if it's seminal, but looks nice)
+- Generative Agents: https://arxiv.org/pdf/2304.03442.pdf (planning, reflecting, acting)
 
 ### Improving performance of existing models
 - Low Rank Adaptation fine tuning https://arxiv.org/pdf/2106.09685.pdf
