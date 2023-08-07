@@ -18,6 +18,7 @@ ChatGPT can answer that question. One might have good luck asking ChatGPT the fo
 - Microsoft Guidance llm framework https://github.com/microsoft/guidance
 - C++ LLM tools: https://github.com/ggerganov/llama.cpp https://github.com/ggerganov/ggml
 - C++ speech to text: https://github.com/ggerganov/whisper.cpp
+- API use by LLM's: https://github.com/ShishirPatil/gorilla
 
 ### Run models locally with a UI
 - exllama, efficient inference of quantized models https://github.com/turboderp/exllama
