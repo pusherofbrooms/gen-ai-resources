@@ -36,7 +36,6 @@ ChatGPT can answer that question. One might have good luck asking ChatGPT the fo
 
 ### Seminal papers
 - Attention is all you need https://arxiv.org/pdf/1706.03762.pdf
-- Retentive Network: A Successor to Transformer https://arxiv.org/pdf/2307.08621.pdf (remains to be seen if it's seminal, but looks nice)
 - Generative Agents: https://arxiv.org/pdf/2304.03442.pdf (planning, reflecting, acting)
 
 ### Improving performance of existing models
@@ -46,6 +45,7 @@ ChatGPT can answer that question. One might have good luck asking ChatGPT the fo
 - Chain of Thought with Self-Consistency https://arxiv.org/pdf/2203.11171.pdf
 - Tree of Thought https://arxiv.org/pdf/2305.10601.pdf
 - Mixture of Experts meets instruction tuning https://arxiv.org/pdf/2305.14705.pdf
+- The Poison of Alignment https://arxiv.org/pdf/2308.13449.pdf
 
 ### Improving context length
 - ALiBI https://arxiv.org/pdf/2108.12409.pdf
