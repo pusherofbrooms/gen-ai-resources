@@ -7,8 +7,9 @@ ChatGPT can answer that question. One might have good luck asking ChatGPT the fo
 - Summarize the "Attention is all you need" paper.
 
 ## Learning resources
-- https://www.youtube.com/@AemonAlgiz/videos Technically deep explanations of llm topics.
+- https://www.youtube.com/@AemonAlgiz/videos Technically deep explanations of llm topics (seems abandoned).
 - https://www.youtube.com/@code4AI/videos Technical deep dives into various topics
+- https://www.youtube.com/@samwitteveenai/videos Mostly Langchain but other LLM topics as well
 - https://www.youtube.com/watch?v=kCc8FmEb1nY build gpt from scratch.
 
 ## Frameworks
@@ -46,6 +47,8 @@ ChatGPT can answer that question. One might have good luck asking ChatGPT the fo
 - Tree of Thought https://arxiv.org/pdf/2305.10601.pdf
 - Mixture of Experts meets instruction tuning https://arxiv.org/pdf/2305.14705.pdf
 - The Poison of Alignment https://arxiv.org/pdf/2308.13449.pdf
+- Original Speculative Decoding paper (with updates) https://arxiv.org/pdf/2211.17192.pdf
+- Staged Specilative Decoding https://arxiv.org/pdf/2308.04623.pdf
 
 ### Improving context length
 - ALiBI https://arxiv.org/pdf/2108.12409.pdf
