@@ -56,6 +56,7 @@ ChatGPT can answer that question. One might have good luck asking ChatGPT the fo
 - NTK ROPE https://www.reddit.com/r/LocalLLaMA/comments/14lz7j5/ntkaware_scaled_rope_allows_llama_models_to_have/
 - Dynamic NTK ROPE https://www.reddit.com/r/LocalLLaMA/comments/14mrgpr/dynamically_scaled_rope_further_increases/
 - LONGNET: Scaling Transformers to 1,000,000,000 Tokens https://arxiv.org/pdf/2307.02486.pdf (This isn't a magic bullet).
+- LM-Infinite: sliding context windows with additions: https://arxiv.org/pdf/2308.16137 
 
 ### Running large models on small hardware
 - gptq https://arxiv.org/pdf/2210.17323.pdf
