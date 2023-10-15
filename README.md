@@ -49,6 +49,7 @@ ChatGPT can answer that question. One might have good luck asking ChatGPT the fo
 - The Poison of Alignment https://arxiv.org/pdf/2308.13449.pdf
 - Original Speculative Decoding paper (with updates) https://arxiv.org/pdf/2211.17192.pdf
 - Staged Specilative Decoding https://arxiv.org/pdf/2308.04623.pdf
+- Chain of Verificaion Reduces Hallucination https://arxiv.org/pdf/2309.11495.pdf
 
 ### Improving context length
 - ALiBI https://arxiv.org/pdf/2108.12409.pdf
