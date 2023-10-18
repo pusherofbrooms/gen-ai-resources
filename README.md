@@ -14,6 +14,11 @@ ChatGPT can answer that question. One might have good luck asking ChatGPT the fo
 
 ## Frameworks
 
+### AI Agents / AGI
+- AutoGPT https://github.com/Significant-Gravitas/AutoGPT
+- autogen https://github.com/microsoft/autogen
+- ChatDEV https://github.com/OpenBMB/ChatDev
+
 ### Development frameworks
 - Langchain python llm framework https://python.langchain.com/
 - Microsoft Guidance llm framework https://github.com/microsoft/guidance
