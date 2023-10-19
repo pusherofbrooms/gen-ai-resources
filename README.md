@@ -18,6 +18,7 @@ ChatGPT can answer that question. One might have good luck asking ChatGPT the fo
 - AutoGPT https://github.com/Significant-Gravitas/AutoGPT
 - autogen https://github.com/microsoft/autogen
 - ChatDEV https://github.com/OpenBMB/ChatDev
+- GPT-Engineer https://github.com/AntonOsika/gpt-engineer
 
 ### Development frameworks
 - Langchain python llm framework https://python.langchain.com/
