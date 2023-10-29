@@ -19,6 +19,7 @@ ChatGPT can answer that question. One might have good luck asking ChatGPT the fo
 - autogen https://github.com/microsoft/autogen
 - ChatDEV https://github.com/OpenBMB/ChatDev
 - GPT-Engineer https://github.com/AntonOsika/gpt-engineer
+- Add long memory to your GPT https://github.com/cpacker/MemGPT
 
 ### Development frameworks
 - Langchain python llm framework https://python.langchain.com/
@@ -56,6 +57,7 @@ ChatGPT can answer that question. One might have good luck asking ChatGPT the fo
 - Original Speculative Decoding paper (with updates) https://arxiv.org/pdf/2211.17192.pdf
 - Staged Specilative Decoding https://arxiv.org/pdf/2308.04623.pdf
 - Chain of Verificaion Reduces Hallucination https://arxiv.org/pdf/2309.11495.pdf
+- Nasa's Bio-inspired design and research assistant prompt https://github.com/nasa-petal/discord_bot#bidara--bio-inspired-design-and-research-assistant
 
 ### Improving context length
 - ALiBI https://arxiv.org/pdf/2108.12409.pdf
