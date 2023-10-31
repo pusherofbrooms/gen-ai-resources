@@ -1,7 +1,7 @@
 * AI related topics that I should study.
-** TODO Attention is all you need (Optional) [0%]
-*** TODO Ask an LLM to summarize the paper.
-*** TODO Understand the paper as much as a non-practitioner can.
+** DONE Attention is all you need (Optional) [100%]
+*** DONE Ask an LLM to summarize the paper.
+*** DONE Understand the paper as much as a non-practitioner can.
 ** TODO Langchain [0%]
 *** TODO Follow a tutorial for langchain in an openai context.
 *** TODO Connect langchain to a local model.
