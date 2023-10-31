@@ -1,0 +1,24 @@
+* AI related topics that I should study.
+** TODO Attention is all you need (Optional) [0%]
+*** TODO Ask an LLM to summarize the paper.
+*** TODO Understand the paper as much as a non-practitioner can.
+** TODO Langchain [0%]
+*** TODO Follow a tutorial for langchain in an openai context.
+*** TODO Connect langchain to a local model.
+*** TODO Create a toy RAG application with langchain.
+** TODO Chatdev [0%]
+*** TODO Install Chatdev and link it to an LLM.
+*** TODO Create a toy application with Chatdev.
+** TODO Autogen [0%]
+*** TODO Install autogen and use it with OpenAI.
+*** TODO Link autogen to a local LLM and get it to function properly.
+*** TODO Use Autogen to create an application.
+** TODO MemGPT [0%]
+*** TODO Install memgpt
+*** TODO Run and modify the memgpt examples.
+*** TODO Integrate memgpt and autogen with a local LLM.
+** TODO Model training
+*** TODO Train a trivial model from scratch using Python tooling (llama.cpp not allowed)
+*** TODO Fine tune a model using python tooling.
+*** TODO Create a LORA.
+*** TODO QLORA.
