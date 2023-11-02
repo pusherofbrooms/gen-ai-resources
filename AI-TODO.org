@@ -2,9 +2,11 @@
 ** DONE Attention is all you need (Optional) [100%]
 *** DONE Ask an LLM to summarize the paper.
 *** DONE Understand the paper as much as a non-practitioner can.
-** TODO Langchain [0%]
-*** TODO Follow a tutorial for langchain in an openai context.
-*** TODO Connect langchain to a local model.
+** TODO Langchain [66%]
+*** DONE Follow a tutorial for langchain in an openai context.
+**** I used https://python.langchain.com/docs/integrations/llms/llamacpp as my first langchain tutorial.
+*** DONE Connect langchain to a local model.
+**** I killed 2 birds with one stone using https://python.langchain.com/docs/integrations/llms/llamacpp which connects langchain to a llama.cpp instance.
 *** TODO Create a toy RAG application with langchain.
 ** TODO Chatdev [0%]
 *** TODO Install Chatdev and link it to an LLM.
