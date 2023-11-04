@@ -20,12 +20,18 @@ python server.py
 ### complains that bitsandbytes has no gpu support, but I haven't seen a problem from this.
 ## Caveats
 - exllama2 and autoawq don't work with ROCM yet.
+- The openai extension requires more python packages as of 2023-11-04. There is an openai branch which will probably incorporate these soon.
+```
+pip install tiktoken
+pip install sentence_transformers
+pip install SpeechRecognition
+```
 
 # automatic1111/stable-diffusion-webui on amd 7xxx gpu ubuntu
 ## install amd drivers with amdgpu-install (seems to also install rocm drivers).
 ## setup a virtualenv
 ```
-cd text-generation-webui
+cd stable-diffusion-webui
 python -m venv venv
 source venv/bin/activate
 ```
