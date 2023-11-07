@@ -1,3 +1,6 @@
+# Update 20231107
+extensive ROCM instructions for various AI use cases can be found at https://github.com/nktice/AMD-AI/blob/main/ROCm-5.7.md
+
 # oobabooga/text-generation-webui on AMD 7xxx GPU ubuntu
 ## install amd drivers with amdgpu-install (seems to also install rocm drivers).
 ## setup a virtualenv
