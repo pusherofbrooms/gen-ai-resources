@@ -11,10 +11,12 @@
 ** TODO Chatdev [0%]
 *** TODO Install Chatdev and link it to an LLM.
 *** TODO Create a toy application with Chatdev.
-** TODO Autogen [0%]
-*** TODO Install autogen and use it with OpenAI.
-*** TODO Link autogen to a local LLM and get it to function properly.
-*** TODO Use Autogen to create an application.
+** TODO Autogen [100%]
+*** DONE Install autogen and use it with OpenAI.
+**** I used oobabooga with openai extension for this.
+*** DONE Link autogen to a local LLM and get it to function properly.
+*** DONE Use Autogen to create an application.
+**** was able to create a toy application with OpenHermes Mistral
 ** TODO MemGPT [0%]
 *** TODO Install memgpt
 *** TODO Run and modify the memgpt examples.
