@@ -17,10 +17,11 @@
 *** DONE Link autogen to a local LLM and get it to function properly.
 *** DONE Use Autogen to create an application.
 **** was able to create a toy application with OpenHermes Mistral
-** TODO MemGPT [0%]
-*** TODO Install memgpt
-*** TODO Run and modify the memgpt examples.
-*** TODO Integrate memgpt and autogen with a local LLM.
+** TODO MemGPT [100%]
+*** DONE Install memgpt
+*** DONE Run and modify the memgpt examples.
+*** DONE Integrate memgpt and autogen with a local LLM.
+**** I used the instructions at https://memgpt.readthedocs.io/en/latest/local_llm/ to connect to oobabooga. I couldn't get memgpt to connect properly to the openai api for oobabooga though.
 ** TODO Model training
 *** TODO Train a trivial model from scratch using Python tooling (llama.cpp not allowed)
 *** TODO Fine tune a model using python tooling.
