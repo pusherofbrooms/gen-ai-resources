@@ -58,6 +58,7 @@ ChatGPT can answer that question. One might have good luck asking ChatGPT the fo
 - Staged Specilative Decoding https://arxiv.org/pdf/2308.04623.pdf
 - Chain of Verificaion Reduces Hallucination https://arxiv.org/pdf/2309.11495.pdf
 - Nasa's Bio-inspired design and research assistant prompt https://github.com/nasa-petal/discord_bot#bidara--bio-inspired-design-and-research-assistant
+- Reddit post on sampling settings (temperature, top-k, top-p, min-p, etc.) https://www.reddit.com/r/LocalLLaMA/comments/17vonjo/your_settings_are_probably_hurting_your_model_why/
 
 ### Improving context length
 - ALiBI https://arxiv.org/pdf/2108.12409.pdf
