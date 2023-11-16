@@ -7,7 +7,6 @@ ChatGPT can answer that question. One might have good luck asking ChatGPT the fo
 - Summarize the "Attention is all you need" paper.
 
 ## Learning resources
-- https://www.youtube.com/@AemonAlgiz/videos Technically deep explanations of llm topics (seems abandoned).
 - https://www.youtube.com/@code4AI/videos Technical deep dives into various topics
 - https://www.youtube.com/@samwitteveenai/videos Mostly Langchain but other LLM topics as well
 - https://www.youtube.com/watch?v=kCc8FmEb1nY build gpt from scratch.
