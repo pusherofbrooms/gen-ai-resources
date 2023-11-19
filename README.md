@@ -9,6 +9,7 @@ ChatGPT can answer that question. One might have good luck asking ChatGPT the fo
 ## Learning resources
 - https://www.youtube.com/@code4AI/videos Technical deep dives into various topics
 - https://www.youtube.com/@samwitteveenai/videos Mostly Langchain but other LLM topics as well
+- https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ Neural networks: Zero to Hero
 - https://www.youtube.com/watch?v=kCc8FmEb1nY build gpt from scratch.
 
 ## Frameworks
