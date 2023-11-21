@@ -8,9 +8,10 @@
 *** DONE Connect langchain to a local model.
 **** I killed 2 birds with one stone using https://python.langchain.com/docs/integrations/llms/llamacpp which connects langchain to a llama.cpp instance.
 *** TODO Create a toy RAG application with langchain.
-** TODO Chatdev [0%]
-*** TODO Install Chatdev and link it to an LLM.
-*** TODO Create a toy application with Chatdev.
+** TODO Aider https://github.com/paul-gauthier/aider [0%]
+*** TODO Install Aider and connect to a local LLM
+*** TODO Use Aider to create a trivial software project
+*** TODO Can Aider be used with Autogen?
 ** TODO Autogen [100%]
 *** DONE Install autogen and use it with OpenAI.
 **** I used oobabooga with openai extension for this.
