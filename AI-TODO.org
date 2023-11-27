@@ -8,9 +8,11 @@
 *** DONE Connect langchain to a local model.
 **** I killed 2 birds with one stone using https://python.langchain.com/docs/integrations/llms/llamacpp which connects langchain to a llama.cpp instance.
 *** TODO Create a toy RAG application with langchain.
-** TODO Aider https://github.com/paul-gauthier/aider [0%]
-*** TODO Install Aider and connect to a local LLM
-*** TODO Use Aider to create a trivial software project
+** TODO Aider https://github.com/paul-gauthier/aider [66%]
+*** DONE Install Aider and connect to a local LLM
+**** I used the OpenAI compatible API of oobabooga.
+*** DONE Use Aider to create a trivial software project
+**** Used openhermes-2.5 mistral. It worked ok but not awesome.
 *** TODO Can Aider be used with Autogen?
 ** TODO Autogen [100%]
 *** DONE Install autogen and use it with OpenAI.
