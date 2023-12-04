@@ -80,3 +80,5 @@ ChatGPT can answer that question. One might have good luck asking ChatGPT the fo
 - Specialization on health related data https://arxiv.org/pdf/2305.07804.pdf
 - Direct Preference Optimization https://arxiv.org/pdf/2305.18290
 - Teaching Arithmetic to Small Transformers https://arxiv.org/pdf/2307.03381.pdf
+- Orca: Progressive Learning from Complex Explanation Traces of GPT-4 https://arxiv.org/pdf/2306.02707.pdf
+- Orca2: Teaching Small Language Models How to Reason https://arxiv.org/pdf/2311.11045.pdf
