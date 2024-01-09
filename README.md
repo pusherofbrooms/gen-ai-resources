@@ -17,8 +17,9 @@ ChatGPT can answer that question. One might have good luck asking ChatGPT the fo
 ### AI Agents / AGI
 - AutoGPT https://github.com/Significant-Gravitas/AutoGPT
 - autogen https://github.com/microsoft/autogen
+- CrewAI https://github.com/joaomdmoura/crewAI (newer competitor to AutoGen)
 - ChatDEV https://github.com/OpenBMB/ChatDev
-- GPT-Engineer https://github.com/AntonOsika/gpt-engineer
+- Aider https://github.com/paul-gauthier/aider (coding assistant)
 - Add long memory to your GPT https://github.com/cpacker/MemGPT
 
 ### Development frameworks
@@ -29,7 +30,7 @@ ChatGPT can answer that question. One might have good luck asking ChatGPT the fo
 - API use by LLM's: https://github.com/ShishirPatil/gorilla
 
 ### Run models locally with a UI
-- exllama, efficient inference of quantized models https://github.com/turboderp/exllama
+- exllamav2, efficient inference of quantized models https://github.com/turboderp/exllamav2
 - Oobabooga LLM UI https://github.com/oobabooga/text-generation-webui
 - GPT4All LLM UI https://github.com/nomic-ai/gpt4all This is the easiest way to run LLM's locally with a nice UI.
 - H2OGPT https://github.com/h2oai/h2ogpt Query documents.
@@ -82,3 +83,4 @@ ChatGPT can answer that question. One might have good luck asking ChatGPT the fo
 - Teaching Arithmetic to Small Transformers https://arxiv.org/pdf/2307.03381.pdf
 - Orca: Progressive Learning from Complex Explanation Traces of GPT-4 https://arxiv.org/pdf/2306.02707.pdf
 - Orca2: Teaching Small Language Models How to Reason https://arxiv.org/pdf/2311.11045.pdf
+- LLM AUGMENTED LLMS: EXPANDING CAPABILITIES THROUGH COMPOSITION https://arxiv.org/pdf/2401.02412.pdf
