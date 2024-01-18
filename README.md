@@ -28,12 +28,16 @@ ChatGPT can answer that question. One might have good luck asking ChatGPT the fo
 - C++ LLM tools: https://github.com/ggerganov/llama.cpp https://github.com/ggerganov/ggml
 - C++ speech to text: https://github.com/ggerganov/whisper.cpp
 - API use by LLM's: https://github.com/ShishirPatil/gorilla
+- Coqui-ai text to speech https://github.com/coqui-ai/TTS
+- OpenVoice voice clone and text to speech https://github.com/myshell-ai/OpenVoice
 
-### Run models locally with a UI
+### Run models locally with a UI (inference)
 - exllamav2, efficient inference of quantized models https://github.com/turboderp/exllamav2
 - Oobabooga LLM UI https://github.com/oobabooga/text-generation-webui
 - GPT4All LLM UI https://github.com/nomic-ai/gpt4all This is the easiest way to run LLM's locally with a nice UI.
 - H2OGPT https://github.com/h2oai/h2ogpt Query documents.
+- stable-diffusion-webui https://github.com/AUTOMATIC1111/stable-diffusion-webui Image generation with stable diffusion
+- ComfyUI https://github.com/comfyanonymous/ComfyUI Build custom image generation workflows. Much harder than stable-diffusion-webui but more control.
 
 ### ML Ops
 - MLFlow https://mlflow.org/
