@@ -21,6 +21,7 @@ ChatGPT can answer that question. One might have good luck asking ChatGPT the fo
 - ChatDEV https://github.com/OpenBMB/ChatDev
 - Aider https://github.com/paul-gauthier/aider (coding assistant)
 - Add long memory to your GPT https://github.com/cpacker/MemGPT
+- Add LLM to your shell https://github.com/TheR1D/shell_gpt
 
 ### Development frameworks
 - Langchain python llm framework https://python.langchain.com/
@@ -30,6 +31,7 @@ ChatGPT can answer that question. One might have good luck asking ChatGPT the fo
 - API use by LLM's: https://github.com/ShishirPatil/gorilla
 - Coqui-ai text to speech https://github.com/coqui-ai/TTS
 - OpenVoice voice clone and text to speech https://github.com/myshell-ai/OpenVoice
+- Standford's DSPy framework for optimizing LLM chains https://github.com/stanfordnlp/dspy
 
 ### Run models locally with a UI (inference)
 - exllamav2, efficient inference of quantized models https://github.com/turboderp/exllamav2
@@ -38,6 +40,11 @@ ChatGPT can answer that question. One might have good luck asking ChatGPT the fo
 - H2OGPT https://github.com/h2oai/h2ogpt Query documents.
 - stable-diffusion-webui https://github.com/AUTOMATIC1111/stable-diffusion-webui Image generation with stable diffusion
 - ComfyUI https://github.com/comfyanonymous/ComfyUI Build custom image generation workflows. Much harder than stable-diffusion-webui but more control.
+
+### Interfaces to LLM's
+- gptel for Emacs: https://github.com/karthink/gptel
+- org-ai for Emacs: https://github.com/rksm/org-ai
+- web based LLM front end https://github.com/SillyTavern/SillyTavern
 
 ### ML Ops
 - MLFlow https://mlflow.org/
