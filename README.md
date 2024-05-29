@@ -11,6 +11,9 @@ ChatGPT can answer that question. One might have good luck asking ChatGPT the fo
 - https://www.youtube.com/@samwitteveenai/videos Mostly Langchain but other LLM topics as well
 - https://karpathy.ai/zero-to-hero.html Andrej Karpathy's Neural Networks: Zero to Hero course
 - https://www.promptingguide.ai/ prompt engineering guide
+- https://www.deeplearning.ai/ Many high quality Gen-AI courses.
+- https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-i/ lessons from experience
+- https://hamel.dev/blog/posts/evals/ Evaluating your AI application.
 
 ## Frameworks
 
