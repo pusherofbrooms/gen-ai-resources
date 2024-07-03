@@ -1,11 +1,5 @@
 # Generative AI!
 
-## What is Generative AI?
-ChatGPT can answer that question. One might have good luck asking ChatGPT the following questions to understand the basics:
-- What is generative AI?
-- What are Large Language Models?
-- Summarize the "Attention is all you need" paper.
-
 ## Learning resources
 - https://www.youtube.com/@code4AI/videos Technical deep dives into various topics
 - https://www.youtube.com/@samwitteveenai/videos Mostly Langchain but other LLM topics as well
@@ -35,6 +29,7 @@ ChatGPT can answer that question. One might have good luck asking ChatGPT the fo
 - Coqui-ai text to speech https://github.com/coqui-ai/TTS
 - OpenVoice voice clone and text to speech https://github.com/myshell-ai/OpenVoice
 - Standford's DSPy framework for optimizing LLM chains https://github.com/stanfordnlp/dspy
+- TextGrad https://github.com/zou-group/textgrad
 
 ### Run models locally with a UI (inference)
 - exllamav2, efficient inference of quantized models https://github.com/turboderp/exllamav2
