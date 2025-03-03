@@ -8,6 +8,7 @@
 - https://www.deeplearning.ai/ Many high quality Gen-AI courses.
 - https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-i/ lessons from experience
 - https://hamel.dev/blog/posts/evals/ Evaluating your AI application.
+- https://huggingface.co/learn HuggingFace AI course work.
 
 ## Frameworks
 
