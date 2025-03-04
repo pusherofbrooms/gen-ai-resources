@@ -58,6 +58,7 @@
 - Generative Agents: https://arxiv.org/pdf/2304.03442.pdf (planning, reflecting, acting)
 
 ### Improving performance of existing models
+- A Deep Dive into Reasoning Large Language Models https://arxiv.org/pdf/2502.21321
 - Low Rank Adaptation fine tuning https://arxiv.org/pdf/2106.09685.pdf
 - Classifier Free Guidance https://arxiv.org/pdf/2306.17806.pdf
 - Chain of Thought https://arxiv.org/pdf/2201.11903.pdf
