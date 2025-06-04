@@ -8,8 +8,9 @@ What is Generative AI good at? You can expect good results for tasks like:
 
 - summarization of text
 - evaluating text (sentiment analysis for example)
+- Comparing documents
 - Simple to medium complexity content generation
-- Simple code generation and evaluation
+- Code generation and evaluation
 - Language translation
 - Content editing and proofreading
 - Personalized learning and tutoring
@@ -17,7 +18,7 @@ What is Generative AI good at? You can expect good results for tasks like:
 Taking the above into account, here are some examples of good use cases:
 
 - Sales professionals and others can use AI to generate draft responses to emails or evaluate the sentiment of messages. AI will often be more polite and empathetic than a human, especially if you're entering an engagement feeling angry or anxious. Use AI to compensate if you find yourself in a challenging state of mind.
-- Software Engineers might use AI coding tools to produce tests for their code, generate boilerplate code, or fill in function declarations.
+- Software Engineers might use AI coding tools to produce tests for their code, generate boilerplate code, or fill in function declarations. 
 - Marketers can use AI to produce marketing material, including text and images.
 - AI can help with simple data analysis tasks. Excel with Copilot can help build formulas and graphs. OpenInterpreter and other tools can produce Python code for data analysis.
 - Researchers and analysts can use AI to help summarize lengthy documents, extract key information, and assist in literature reviews by identifying relevant sources and key findings.
@@ -27,10 +28,10 @@ Taking the above into account, here are some examples of good use cases:
 
 Generative AI has many good use cases, but there are also several areas where it's not reliable or appropriate. Here are situations where you shouldn't rely on AI:
 
-- Complex reasoning and planning: Even the best Gen-AI models often struggle with multi-step logical reasoning.
+- Complex reasoning and planning: Even the best Gen-AI models often struggle with multi-step logical reasoning, although this situation is improving.
 - Math and precise calculations: Unless you know that the tool you're using has a calculator or other tool in the background, don't trust any mathematical results.
 - Complex code generation: While AI can help with simple coding tasks, for complex software development, human oversight is crucial. Unless you have comprehensive tests and can thoroughly review the code, you shouldn't trust that the generated code is working correctly or efficiently.
-- Fact-checking or verifying current events: AI models can have outdated information or may occasionally "hallucinate" facts and current events.
+- Fact-checking or verifying current events: AI models can have outdated information or may hallucinate facts and current events. If your tool has "grounding with internet search" or similar functions, turning that on will help.
 
 Over time, we can expect AI to improve in some of these areas.
 
@@ -39,7 +40,7 @@ Over time, we can expect AI to improve in some of these areas.
 There are many use cases I can't recommend, though I know people use AI for them. It's up to you to evaluate the tools and decide whether they are reliable enough for these purposes:
 
 - Strategic decision making. I know of executives who use AI to assist in decision making. I would be cautious since AI often fails at complex reasoning. However, AI can be good for brainstorming, so a strategic expert may find value in having a large pool of ideas to choose from.
-- Medical, financial, or legal advice. I know of professionals who use AI for these uses. An expert should be able to evaluate the correctness of the content where a layperson may struggle. Always confirm any AI-generated medical, financial, or legal advice with the appropriate professional.
+- Medical, financial, or legal advice. I know of professionals who use AI for these uses. An expert should be able to evaluate the correctness of the content where a layperson may struggle. Always confirm any AI-generated medical, financial, or legal advice with the appropriate professional. A valid approach is to 
 - Mental health support. Some use AI as a supplement to therapy or when professional help isn't accessible. While AI can offer a space for expression and general coping strategies, it lacks the empathy and training of a human therapist. Consider it a complementary tool, not a replacement for professional help, especially for serious concerns.
 
 Remember, while AI is a powerful tool, it's meant to augment your capabilities, not replace human judgment entirely. Always apply critical thinking and use AI outputs as a starting point rather than a final product in important decision-making processes.
@@ -68,7 +69,9 @@ As time goes by, more AI tools will become available, and current AI tools will 
 - Check your company policies on AI! Many companies explicitly forbid the use of public AI chatbots as they may use your sensitive conversations to train their models. Your company may have approved AI tools as alternatives.
 - Don't blindly trust the output of Generative AI. AI will occasionally make confident mistakes. It's up to you to evaluate and, if possible, test the output before putting it to use.
 - Check the produced content for "AI-isms". It's almost a meme that words like "delve" or phrases like "dive into" are indicators of AI-generated content. If your audience is sensitive to AI-generated content, curate it carefully.
+- Consider the training data when evaluating your use case. Most AI models are trained on a broad swath of the internet. If it is easy to find content that matches your use case on the internet, you might get better results.
 
 ## Conclusion
 
 Using AI in your professional life can increase your productivity. Use it to streamline tedious tasks, spark creativity, and augment your decision-making, but always apply critical thinking to its outputs. As you experiment with AI tools, you'll discover other ways to enhance your workflow, ultimately allowing you to focus on the aspects of your work that require your human touch.
+
